@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Macmac331
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning the basics of HTML, CSS, and JavaScript
+- 👀 I’m interested in Back-end Development
 - 💞️ I’m looking to collaborate on some projects
 - 📫 Email me @ bautistamacmac331@gmail.com
 <!---
